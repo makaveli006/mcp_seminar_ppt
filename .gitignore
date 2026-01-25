@@ -1,0 +1,12 @@
+# Video files
+*.mp4
+
+# Other common files to ignore
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+*.log
+dist/
+build/
+.vscode/settings.json
